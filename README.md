@@ -289,6 +289,9 @@ Advanced but great:
 - Brendan Burns - [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) [[pdf](http://www.istrsjournal.org/wp-content/uploads/2018/06/Designing_Distributed_Systems.pdf)]
 - Raph Levien – [Rope Science](http://abishov.com/xi-editor/docs/rope_science_00.html)
 
+## Soft Skills
+* [Amazon leadership](https://aws.amazon.com/ru/careers/culture/)
+
 ## Similar repos
 
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
